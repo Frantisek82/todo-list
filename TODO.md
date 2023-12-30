@@ -15,5 +15,6 @@ This is th checklist of tasks to make a good readme:
   - [x] Authors
   - [x] License
   
+  Modifications made for testing purposes
   
   ;)
